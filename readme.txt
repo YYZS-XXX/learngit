@@ -14,5 +14,6 @@ Git is a free software ...
 today is a beautiful day
 >>>>>>> Stashed changes
 >>>>>>> bug-dev
+main-computer control
 
 author:YYZS_XXX
